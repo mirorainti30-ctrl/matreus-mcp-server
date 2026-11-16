@@ -24,7 +24,7 @@ Generate an instant **Free Tier API key (14 requests/month)** directly on the ho
 
 ### 2. Clone & Install Dependencies
 ```bash
-git clone https://github.com
+git clone https://github.com/mirorainti30-ctrl/matreus-mcp-server.git
 cd matreus-mcp-server
 pip install -r requirements.txt
 ```
